@@ -1,0 +1,6 @@
+/Users/gaberobison/Desktop/coding/cleanProj/wiki-brief/backend/target/debug/deps/libunicode_width-fae99aa0ed0d49aa.rmeta: /Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/lib.rs /Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/tables.rs
+
+/Users/gaberobison/Desktop/coding/cleanProj/wiki-brief/backend/target/debug/deps/unicode_width-fae99aa0ed0d49aa.d: /Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/lib.rs /Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/tables.rs
+
+/Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/lib.rs:
+/Users/gaberobison/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-width-0.1.12/src/tables.rs:

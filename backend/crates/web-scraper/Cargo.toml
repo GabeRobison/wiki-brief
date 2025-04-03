@@ -1,0 +1,13 @@
+[package]
+name = "web-scraper"
+version = "0.1.0"
+edition = "2021"
+default-run = "web-scraper"
+
+[dependencies]
+actix-web = "4.0.0"
+actix-cors = "0.6.0"
+reqwest = { version = "0.11", features = ["json"]}
+scraper = "0.12"
+simple-summarizer = { path = "../simple-summarizer" }
+regex = "1.6.0"

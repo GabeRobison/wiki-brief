@@ -1,0 +1,29 @@
+.gradient-text {
+  background: linear-gradient(45deg, #6366f1, #a855f7);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+html,
+body {
+  background-color: #111827;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.result-container {
+  height: 40vh;
+  overflow-y: auto;
+}
+
+@media (max-width: 640px) {
+  .gradient-text {
+    font-size: 1.75rem;
+  }
+
+  input,
+  button {
+    font-size: 0.875rem;
+  }
+}

@@ -1,0 +1,1 @@
+/Users/gaberobison/Desktop/coding/cleanProj/wiki-brief/backend/target/debug/libsimple_summarizer.rlib: /Users/gaberobison/Desktop/coding/cleanProj/wiki-brief/backend/crates/simple-summarizer/src/lib.rs
