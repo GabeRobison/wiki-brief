@@ -10,7 +10,7 @@ async fn main() -> std::io::Result<()> {
     HttpServer::new(|| {
         // Basic CORS config to allow requests from the frontend
         let cors = Cors::default()
-            .allowed_origin("http://localhost:5173")
+            .allowed_origin("http://localhost:5174")
             .allowed_methods(vec!["GET", "POST"])
             .allowed_headers(vec![actix_web::http::header::CONTENT_TYPE])
             .max_age(3600);
