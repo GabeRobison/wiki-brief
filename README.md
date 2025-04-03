@@ -2,6 +2,9 @@
 
 Fast and responsive web application that delivers concise summaries of Wikipedia articles. Combines a high-performance [Rust](https://www.rust-lang.org/) backend with a modern [Vite + React](https://vitejs.dev/) frontend to create an efficient and intuitive user experience.
 
+![wikiBrief Gif](assets/wikiBrief.gif)
+
+
 - [rust-summarizer](https://github.com/GabeRobison/rust-summarizer)  
 - [rust-web-scraper](https://github.com/GabeRobison/rust-web-scraper)
 
