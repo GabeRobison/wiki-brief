@@ -34,7 +34,8 @@ This application scrapes and summarizes content exclusively from Wikipedia. Wiki
 
 ### Backend (Rust)
 
-Ensure [Rust is installed](https://www.rust-lang.org/tools/install).
+1. Ensure [Rust is installed](https://www.rust-lang.org/tools/install).
+2. Navigate to `wiki-brief/backend`
 
 #### Build and Run
 
@@ -47,7 +48,8 @@ cargo run
 
 ### Frontend (React)
 
-Ensure [Node.js installed](https://nodejs.org/en).
+1. Ensure [Node.js installed](https://nodejs.org/en).
+2. In another terminal navigate to `wiki-brief/frontend`
 
 #### Setup and Run
 
