@@ -1,8 +1,9 @@
 # WikiBrief
 
-WikiBrief is a fast and responsive web application that delivers concise summaries of Wikipedia articles. It combines a high-performance Rust backend with a modern Vite + React frontend to provide an efficient and intuitive user experience.
+**WikiBrief** is a fast and responsive web application that delivers concise summaries of Wikipedia articles. It combines a high-performance [Rust](https://www.rust-lang.org/) backend with a modern [Vite + React](https://vitejs.dev/) frontend to create an efficient and intuitive user experience.
 
----
+🔗 [GitHub – rust-summarizer](https://github.com/GabeRobison/rust-summarizer)  
+🔗 [GitHub – rust-web-scraper](https://github.com/GabeRobison/rust-web-scraper)
 
 ## Features
 
