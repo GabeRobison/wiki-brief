@@ -4,8 +4,7 @@ Fast and responsive web application that delivers concise summaries of Wikipedia
 
 ![wikiBrief Gif](assets/wikiBrief.gif)
 
-
-- [rust-summarizer](https://github.com/GabeRobison/rust-summarizer)  
+- [rust-summarizer](https://github.com/GabeRobison/rust-summarizer)
 - [rust-web-scraper](https://github.com/GabeRobison/rust-web-scraper)
 
 ## Features
