@@ -1,6 +1,6 @@
 # WikiBrief
 
-Fast and responsive web application that delivers concise summaries of Wikipedia articles. Combines a high-performance [Rust](https://www.rust-lang.org/) backend with a modern [Vite](https://vitejs.dev/)+ React](https://react.dev/) frontend to create an efficient and intuitive user experience.
+Fast and responsive web application that delivers concise summaries of Wikipedia articles. Combines a high-performance [Rust](https://www.rust-lang.org/) backend with a modern [Vite](https://vitejs.dev/) + [React](https://react.dev/) frontend to create an efficient and intuitive user experience.
 
 ![wikiBrief Gif](assets/wikiBrief.gif)
 
